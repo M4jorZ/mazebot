@@ -1,0 +1,16 @@
+{
+  "name": "mazebot",
+  "version": "1.0.0",
+  "description": "Discord BOT",
+  "main": "maze.js",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "dir": "^0.1.2",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0",
+    "enot": "^2.0.8",
+    "nodemon": "^1.19.3",
+    "npm": "^6.11.3"
+  }
+}
